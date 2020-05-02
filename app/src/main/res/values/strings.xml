@@ -3,4 +3,5 @@
     <string name="your_score_1_d">Your Score: %1$d</string>
     <string name="time_remaining_1_d">Time Remaining: %1$d</string>
     <string name="tap_me">Tap me!</string>
+    <string name="game_over">Congratulations! Your score was %1$d</string>
 </resources>
